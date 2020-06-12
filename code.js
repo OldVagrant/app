@@ -1,4 +1,4 @@
-<script>
+
 // код начнёт выполняться после загрузки страницы
 // когда окно загрузится, сработает метод window.onLoad
 window.addEventListener('load', function OnWindowLoaded() {
@@ -52,4 +52,4 @@ window.addEventListener('load', function OnWindowLoaded() {
         }
     }
 });
-</script>
+
