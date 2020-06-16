@@ -9,8 +9,8 @@
     }
  
     .btn:hover {
-        background: blue;
-        color: grey;
+        background: green;
+        color: white;
     }
  
     #calc-wrap {
